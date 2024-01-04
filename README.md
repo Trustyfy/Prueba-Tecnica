@@ -6,7 +6,7 @@ Crear una API para poder acceder y trabajar con los datos, crear un front para p
 
 ### Como aborar y presentar la prueba
 
-Clona este repositorio
+**Clona** este repositorio
 `https://github.com/Trustyfy/Prueba-Tecnica.git`
 
 En las carpetas `./server` y `./front` crea dos proyectos de node **diferentes**.
