@@ -4,20 +4,14 @@ Almacenar los logs del fichero json en una colección de MongoDB.
 Crear una API para poder acceder y trabajar con los datos, crear un front para poder visualizar e interactuar con los datos, utilizando la API como intermediario entre el front y la base de datos
 
 
-### Como aborar y presentar la prueba
+### Como abordar y presentar la prueba
 
-**Clona** este repositorio
-`https://github.com/Trustyfy/Prueba-Tecnica.git`
-
-En las carpetas `./server` y `./front` crea dos proyectos de node **diferentes**.
-
-Cada proyecto debe instalar las dependencias necesarias para funcionar con el comando:
+-   **Clona** este repositorio, no hagas fork.  `https://github.com/Trustyfy/Prueba-Tecnica.git`
+-   Crea las carpetas `./server` y `./front` y en ellas crea dos proyectos de node **diferentes**.
+-   Cada proyecto debe instalar las dependencias necesarias para funcionar con el comando:
 	`npm install`
-
-Si utilizas archivos de tipo `.env` incluyelos en el repositorio.
-
-Sube el repositorio a Github y comparte por mail el enlace, no es necesario que hagas un pull request. 
-
+-   Si utilizas archivos de tipo `.env` incluyelos en el repositorio.
+-   Sube el repositorio a tu Github y comparte el enlace, no hagas un pull request. 
 
 ### Detalles tecnicos
 La prueba consta en tres partes, las cuales tendrán que funcionar correctamente y en su conjunto.
